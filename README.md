@@ -3,7 +3,9 @@
 </div>
 
 <div align="center">
-  <a href="https://portfolio.daps.my.id"><img src="https://img.shields.io/badge/Website-daps.my.id-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+  <a href="https://portfolio.daps.my.id"><img src="https://img.shields.io/badge/Portfolio-portfolio.daps.my.id-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+  <a href="https://daps.my.id"><img src="https://img.shields.io/badge/Website-daps.my.id-3B82F6?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://daps.biz.id"><img src="https://img.shields.io/badge/Business-daps.biz.id-10B981?style=for-the-badge&logo=safari&logoColor=white" /></a>
   <a href="https://whatsapp.com/channel/0029Vb89x3U5fM5VSAMCHQ16"><img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://tiktok.com/@dapss"><img src="https://img.shields.io/badge/TikTok-Profile-black?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </div>
