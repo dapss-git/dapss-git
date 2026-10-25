@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=220&section=header&text=Hi%20there,%20I'm%20Dafa%20👋&fontSize=42&fontColor=fff&animation=twinkling&desc=Fullstack%20Developer%20|%20AI%20%26%20Bot%20Enthusiast&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=220&section=header&text=Hi%20there,%20I'm%20Dafa%20👋&fontSize=42&fontColor=fff&animation=twinkling&desc=Vibe%20Coder%20|%20AI%20%26%20Autonomous%20Agent%20Commander&descSize=18" width="100%" />
 </div>
 
 <div align="center">
@@ -10,14 +10,18 @@
 
 <br/>
 
-### 🚀 Powered by AI Agents & Antigravity
-> *"Augmented with autonomous AI pairing: Antigravity CLI, Google Gemini, Anthropic Claude, & OpenAI GPT."*
+### 🤖 AI Arsenal & Autonomous Agents
+> *"100% Vibe Coding — Disetir & Dikerjakan Penuh Oleh AI & Agentic Workflows"*
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Google_Antigravity-CLI_Agent-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_Flash-Google_DeepMind-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Opus-Anthropic-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/GPT--4o-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-Google_DeepMind-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_3.5_/_Opus-Anthropic-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_1.5_/_Flash-Google-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT_/_GPT--4o-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-Microsoft-007ACC?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meta_AI-Llama_3-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grok-xAI-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCode-Agent-24292e?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
@@ -33,12 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapss-git&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="48%" />
 </div>
 
----
-
-### 🛠️ Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,tailwind,html,css,sqlite,git,bash,linux" />
-</p>
+<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dapss-git&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
